@@ -1,0 +1,18 @@
+@import './header.scss';
+@import './null.scss';
+@import './intro.scss';
+@import './about.scss';
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	height: 100%;
+	padding: 0 10px;
+	margin: 0px auto;
+	position: relative;
+}
+
+body {
+	// background-color: #080203;
+	background-color: #0f0f0f;
+}
